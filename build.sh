@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build . -t examples/nodejs-docker-webapp
+docker build . -t smontanari/nodejs-example
